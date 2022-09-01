@@ -1,1 +1,1 @@
-create a directory in another directory
+Delete the file betty

@@ -1,1 +1,1 @@
-how to change file ownership
+print user
